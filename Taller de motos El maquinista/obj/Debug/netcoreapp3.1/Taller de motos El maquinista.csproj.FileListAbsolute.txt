@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Taller de motos El maquinista\Taller de motos El maquinista\bin\Debug\netcoreapp3.1\Taller de motos El maquinista.exe
+C:\Users\User\source\repos\Taller de motos El maquinista\Taller de motos El maquinista\bin\Debug\netcoreapp3.1\Taller de motos El maquinista.deps.json
+C:\Users\User\source\repos\Taller de motos El maquinista\Taller de motos El maquinista\bin\Debug\netcoreapp3.1\Taller de motos El maquinista.runtimeconfig.json
+C:\Users\User\source\repos\Taller de motos El maquinista\Taller de motos El maquinista\bin\Debug\netcoreapp3.1\Taller de motos El maquinista.runtimeconfig.dev.json
+C:\Users\User\source\repos\Taller de motos El maquinista\Taller de motos El maquinista\bin\Debug\netcoreapp3.1\Taller de motos El maquinista.dll
+C:\Users\User\source\repos\Taller de motos El maquinista\Taller de motos El maquinista\bin\Debug\netcoreapp3.1\Taller de motos El maquinista.pdb
+C:\Users\User\source\repos\Taller de motos El maquinista\Taller de motos El maquinista\obj\Debug\netcoreapp3.1\Taller de motos El maquinista.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Taller de motos El maquinista\Taller de motos El maquinista\obj\Debug\netcoreapp3.1\Taller de motos El maquinista.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Taller de motos El maquinista\Taller de motos El maquinista\obj\Debug\netcoreapp3.1\Taller de motos El maquinista.AssemblyInfo.cs
+C:\Users\User\source\repos\Taller de motos El maquinista\Taller de motos El maquinista\obj\Debug\netcoreapp3.1\Taller de motos El maquinista.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Taller de motos El maquinista\Taller de motos El maquinista\obj\Debug\netcoreapp3.1\Taller de motos El maquinista.dll
+C:\Users\User\source\repos\Taller de motos El maquinista\Taller de motos El maquinista\obj\Debug\netcoreapp3.1\Taller de motos El maquinista.pdb
+C:\Users\User\source\repos\Taller de motos El maquinista\Taller de motos El maquinista\obj\Debug\netcoreapp3.1\Taller de motos El maquinista.genruntimeconfig.cache
